@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/psms/static/css/main.fef8dd42.css",
+    "main.js": "/psms/static/js/main.3223943d.js",
+    "index.html": "/psms/index.html",
+    "main.fef8dd42.css.map": "/psms/static/css/main.fef8dd42.css.map",
+    "main.3223943d.js.map": "/psms/static/js/main.3223943d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fef8dd42.css",
+    "static/js/main.3223943d.js"
+  ]
+}
