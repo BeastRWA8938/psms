@@ -1,0 +1,44 @@
+.floor {
+    margin: 10px 10px 10px 10px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    border: 5px solid rgb(117, 132, 159);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.floor h1 {
+    background-color: aliceblue;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 10px 10px 10px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    border: 5px solid rgb(137, 153, 182);
+}
+
+.singlefloor {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.slot {
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    border: 5px solid rgb(162, 183, 222);
+}
+
+.occupied {
+    background-color: lightcoral;
+}
+
+.unoccupied {
+    background-color: aquamarine;
+}
